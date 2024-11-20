@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/QueryNest/static/css/main.93cb6f7d.css",
+    "main.js": "/QueryNest/static/js/main.7f263889.js",
+    "static/media/logo.png": "/QueryNest/static/media/logo.6e0e6fb026d323ebfcf8.png",
+    "static/media/Globe.svg": "/QueryNest/static/media/Globe.b4c9a5d99220d0b4e3024a8106e27c49.svg",
+    "static/media/blacklogo.svg": "/QueryNest/static/media/blacklogo.6360ec15e34a0459d47dc96acf42aa42.svg",
+    "index.html": "/QueryNest/index.html",
+    "static/media/search-solid.svg": "/QueryNest/static/media/search-solid.cc51b702c98798cd916ea5a3a8ca8b54.svg",
+    "static/media/pen-solid.svg": "/QueryNest/static/media/pen-solid.4b1bdc1c5a371fb72f1b580d52f8a87a.svg",
+    "static/media/comment-alt-solid.svg": "/QueryNest/static/media/comment-alt-solid.7df3f00f8e0e47e451c3254d2d8c85c1.svg",
+    "static/media/sort-down.svg": "/QueryNest/static/media/sort-down.903eaa19f8ed510bf2202ab80dbea7d5.svg",
+    "static/media/sort-up.svg": "/QueryNest/static/media/sort-up.00d081851dcbaaf15930853fbdb312b6.svg",
+    "main.93cb6f7d.css.map": "/QueryNest/static/css/main.93cb6f7d.css.map",
+    "main.7f263889.js.map": "/QueryNest/static/js/main.7f263889.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93cb6f7d.css",
+    "static/js/main.7f263889.js"
+  ]
+}
